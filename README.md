@@ -4,6 +4,12 @@
 </a>  
 <br/> 
 
+<br/>
+<a>
+   Open to work on stuff for funsies, also, fuck Hamas, #NAFO
+</a>  
+<br/> 
+
 <br/> 
 <a>
     DISCLAIMER: I may be chill when i'm out but at work i'm this guy from Veep in ways you have no idea
