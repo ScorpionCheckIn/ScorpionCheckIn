@@ -6,7 +6,7 @@
 
 <br/>
 <a>
-   Upcoming project: A recoinnasance model for drones that tells apart troops, different kinds of military vehicles, etc...(Yes, you can do murder drones, with it, that's phase 2)
+   Upcoming project: A recoinnasance model for drones that tells apart troops, different kinds of military vehicles, etc...(Yes, you can do murder drones, with it, that's phase 2, it's ok, i'll design it to have israeli and us troops as friendlies)
 </a>  
 <br/> 
 
